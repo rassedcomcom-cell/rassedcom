@@ -1,7 +1,7 @@
 # مؤسسة رصيدكم التجارية  
 ## Rassedkom Commercial Establishment
 
-This repository contains an auto‑redirect page that sends visitors directly to the official Google Maps location of **مؤسسة رصيدكم التجارية** في مدينة الرياض.
+This repository hosts an auto‑redirect page that sends visitors directly to the official Google Maps location of **مؤسسة رصيدكم التجارية** في **فيلاجيو مول – البطحاء بالرياض**.
 
 ---
 
@@ -11,7 +11,7 @@ The redirect points to the following coordinates:
 **24.6458, 46.7244**
 
 Google Maps Link:  
-https://www.google.com/maps/place/24.6458,46.7244
+[Open in Google Maps](https://www.google.com/maps/place/JPW8%2BJV7+Villagio+Mall,+Riyadh)
 
 ---
 
@@ -21,13 +21,20 @@ The repository includes a simple `index.html` file that automatically redirects 
 The redirect is implemented using:
 
 - HTML Meta Refresh  
-- JavaScript Fallback (optional)
+- Manual link fallback (in case auto‑redirect fails)
 
 This ensures instant navigation when the page is opened.
 
 ---
 
-## 🌐 Live Redirect Page (GitHub Pages)
+## 🌐 Live Redirect Page (GitHub Pages)  
+Once GitHub Pages is enabled, the live link is:  
 
-Once GitHub Pages is enabled, your live link will look like:
+👉 [https://rassedcomcom-cell.github.io/rassedcom/](https://rassedcomcom-cell.github.io/rassedcom/)
 
+---
+
+## 🛠️ Setup Instructions  
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/rassedcomcom-cell/rassedcom.git
